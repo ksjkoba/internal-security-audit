@@ -16,8 +16,8 @@ Conducted an internal IT audit for Botium Toys to assess and improve their secur
 - **Tools**: Azure Sentinel, Wireshark, Snort, Metasploit
 
 ## Process
-1. **Review of Assets**: Assessed the assets managed by the IT department and reviewed [Risk Assessment Comments]([path/to/your/risk-assessment.pdf](https://github.com/ksjkoba/internal-security-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)).
-2. **Controls and Compliance Checklist**: Completed the [Controls and Compliance Checklist]([path/to/your/checklist.pdf](https://github.com/ksjkoba/internal-security-audit/blob/main/Controls%20and%20compliance%20checklist.pdf)) to evaluate controls and compliance with best practices.
+1. **Review of Assets**: Assessed the assets managed by the IT department and reviewed [Risk Assessment Comments](https://github.com/ksjkoba/internal-security-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf).
+2. **Controls and Compliance Checklist**: Completed the [Controls and Compliance Checklist](https://github.com/ksjkoba/internal-security-audit/blob/main/Controls%20and%20compliance%20checklist.pdf) to evaluate controls and compliance with best practices.
 3. **Incident Triage**: Performed initial incident triage and root cause analysis.
 4. **Forensic Investigation**: Conducted forensic analysis to uncover attack vectors and methodologies.
 
@@ -33,5 +33,5 @@ Provided actionable recommendations to mitigate identified risks and improve ove
 (Optional) Detailed recommendations for further improving security posture and compliance.
 
 ## Important Documents
-- [Controls and Compliance Checklist](path/to/your/checklist.pdf](https://github.com/ksjkoba/internal-security-audit/blob/main/Controls%20and%20compliance%20checklist.pdf))
-- [Risk Assessment Report](path/to/your/risk-assessment.pdf](https://github.com/ksjkoba/internal-security-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf))
+- [Controls and Compliance Checklist](path/to/your/checklist.pdf](https://github.com/ksjkoba/internal-security-audit/blob/main/Controls%20and%20compliance%20checklist.pdf)
+- [Risk Assessment Report](https://github.com/ksjkoba/internal-security-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
