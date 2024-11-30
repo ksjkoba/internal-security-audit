@@ -33,5 +33,5 @@ Provided actionable recommendations to mitigate identified risks and improve ove
 (Optional) Detailed recommendations for further improving security posture and compliance.
 
 ## Important Documents
-- [Controls and Compliance Checklist](path/to/your/checklist.pdf)
-- [Risk Assessment Report](path/to/your/risk-assessment.pdf)
+- [Controls and Compliance Checklist](path/to/your/checklist.pdf](https://github.com/ksjkoba/internal-security-audit/blob/main/Controls%20and%20compliance%20checklist.pdf))
+- [Risk Assessment Report](path/to/your/risk-assessment.pdf](https://github.com/ksjkoba/internal-security-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf))
